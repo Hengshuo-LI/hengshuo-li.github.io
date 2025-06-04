@@ -199,6 +199,8 @@ defaults:
 
 sass:
   style: compressed
+  #style: expanded
+  #sourcemap: development
 
 compress_html:
   clippings: all
