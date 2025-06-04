@@ -16,7 +16,7 @@ timezone: Europe/Paris
 
 title: Hengshuo's blog # the main title
 
-tagline: oriented to applied mathematics and artificial intelligent # it will display as the subtitle
+tagline: Applied math, AI # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   summaries, thoughts, notes of the topics of applied mathematics and AI.
@@ -55,6 +55,10 @@ webmaster_verifications:
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
+# CV settings ›
+theme_skin: blue # blue turquoise green berry orange ceramic teal oceanstale
+chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
+
 
 # Web Analytics Settings
 analytics:
