@@ -64,7 +64,7 @@ career-profile:
   title: Career Profile
   summary: |
     Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
+    adipiscing elit. You can download this free resume/CV template here.
     Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
     penatibus et magnis dis parturient montes, nascetur ridiculus mus.
     Donec quam felis, ultricies nec, pellentesque eu.
@@ -144,7 +144,7 @@ certifications:
     end: 2021
     organization: Microsoft
     credentialid: 111-222
-    credentialurl: www.google.com
+    credentialurl: https://www.google.com
     credentialname: Google
     details: |
       Details about cert. Lorem ipsum dolor sit amet, consectetur
@@ -165,7 +165,7 @@ certifications:
     end:
     organization: Microsoft
     credentialid: 111-222
-    credentialurl: www.github.com
+    credentialurl: https://www.github.com
     credentialname: Github
     details: |
       Older certification. Lorem ipsum dolor sit amet, consectetur
@@ -183,7 +183,7 @@ projects:
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
   - title: Velocity
-    link: "#hook"
+    link: "hook"
     tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
   - title: DevStudio
