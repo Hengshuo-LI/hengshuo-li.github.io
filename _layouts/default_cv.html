@@ -19,7 +19,7 @@ layout: compress
   <body>
     {% include sidebar.html lang=lang %}
 
-    <div id="main-wrapper" class="d-flex justify-content-center">
+    <div id="main-wrapper" > 
       <div class="wrapper">
         {% include cv/sidebar.html %}
 
@@ -27,11 +27,6 @@ layout: compress
             {{ content }}
         </div>
       </div>
-      <aside aria-label="Scroll to Top">
-        <button id="back-to-top" type="button" class="btn btn-lg btn-box-shadow">
-          <i class="fas fa-angle-up"></i>
-        </button>
-      </aside>
     </div>
 
     <div id="mask" class="d-none position-fixed w-100 h-100 z-1"></div>
