@@ -125,23 +125,23 @@ projects:
     Completed various projects during my studies, showcasing versatility in applied mathematics, programming, and creative development.
   assignments:
   - title: Literature review on time series clustering
-    link: 
+    link: https://github.com/heli-gh
     tagline: R, invaraince, representation, distance, clustering, time series
 
   - title: MCTS applied to probabilistic Traveling Salesman Problem
-    link: 
+    link: https://github.com/heli-gh
     tagline: C++, Monte Carlo Tree Search, k-opt, CPLEX
 
   - title: Application for optimal elective course allocation
-    link: 
+    link: https://github.com/heli-gh
     tagline: Java, genetic algorithm, MVC, client-server architecture
 
   - title: Image fusion based on a drift-diffusion (osmosis) model
-    link: 
+    link: https://github.com/heli-gh
     tagline: Matlab, partial differential equations, finite difference
   
   - title: As well as various additional minor projects
-    link: 
+    link: https://github.com/heli-gh
     tagline: Portfolio optimization, FNN implementation with C++, Unity game, multi-agent simulation, etc.
   
 
