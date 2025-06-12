@@ -7,24 +7,24 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Hengshuo LI
+  tagline: Junior Data Scientist
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  email: lihengshuohenry@gmail.com
+  # phone: 012 345 6789
+  timezone: Paris/France # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: China # Enter your citizenship, e.g., China, United States, France, etc.²
+  website: https://blog.hengshuoli.com # Include the full website URL, including "http://" or "https://".
+  linkedin: https://www.linkedin.com/in/hengshuo-li-1a8837175/ # Include the full LinkedIn URL, including "http://" or "https://".
+  xing: 
+  github: heli-gh
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  #bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
+  #twitter: '@jekyllrb'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -37,22 +37,22 @@ sidebar:
     title: Languages
     info:
     - idiom: English
-      level: Native
+      level: Professional
 
     - idiom: French
       level: Professional
 
-    - idiom: Spanish
-      level: Professional
+    - idiom: Chinese
+      level: Native
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Table Tennis
       link:
 
 
-    - item: Snowboarding
+    - item: Basketball
       link:
 
 
@@ -63,223 +63,150 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can download this free resume/CV template here.
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Solid background in applied mathematics, constantly seeking new knowledge in mathematics and artificial intelligence. Passionate about becoming an AI expert, I aim to join ambitious projects involving the deployment of AI solutions in enterprises.
+    
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Engineering Degree in Applied Mathematics
+    university: INSA Rouen Normandie
+    time: 2018 - 2024
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+      Computer Science, Modeling, Simulation, Operational Research, Data Science.
+  - degree: Master's Degree in Applied Mathematics
+    university: University of Rouen Normandie 
+    time: 2023 - 2024
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+
 
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Internship in Operational Research
+    time: 05.2024 - 10.2024
+    company: Paris Cité University, Paris, Supervised by Olivier Bokanowski
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      - Implemented a numerical scheme based on neural networks using TensorFlow for optimal control problems with constraints and reachability.
+      - Analyzed scheme convergence, wrote scientific reports, and reviewed existing literature.
+      - Conducted numerical comparisons with finite difference solvers, showing encouraging results for multi-agent problems.
+      - Preparing a scientific paper for publication.
+  - role: Data Science Internship
+    time: 06.2023 - 09.2023
+    company: Jilin University, Changchun, Supervised by Prof. Jinxing He
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+      - Developed a Python application for remote sensing image classification using KNN, SVM, Random Forest, LDA, and QDA methods.
+      - Experimentally studied the impact of training data volume, achieving 92\% accuracy.
+      - Conducted literature reviews on Probably Approximately Correct (PAC) theory and generalization error.
+      Post-Internship:
+      - Participating in the thematic group "Mathematical analysis of remote sensing data," studying uncertainty quantification methods in machine learning (bootstrap and Bayesian approaches).
+
+  - role: Worker Internship
+    time: 07.2019 
+    company: FAW Toyota Engine Co., Ltd., Changchun
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      - Trained in safety and factory production methods.}\\
+      - Participated in regular inspections of production lines, recorded and entered equipment status data in computer.
 
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: https://www.google.com
-    credentialname: Google
+  - name: First-class National Athlete
+    start: 2015
+    end: 2018
+    organization: General Administration of Sport of China
+    credentialid: 
+    credentialurl: https://zwfw.sport.gov.cn/level.html
+    credentialname: 李恒硕 (with credentialID 2015070010203)
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: https://www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
+      Professional Table Tennis Athlete (national level, China).
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Completed various projects during my studies, showcasing versatility in applied mathematics, programming, and creative development.
   assignments:
-  - title: Velocity
-    link: "https://www.github.com"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  - title: Literature review on time series clustering
+    link: 
+    tagline: R, invaraince, representation, distance, clustering, time series
 
-  - title: DevStudio
-    link: "https://www.github.com"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+  - title: MCTS applied to probabilistic Traveling Salesman Problem
+    link: 
+    tagline: C++, Monte Carlo Tree Search, k-opt, CPLEX
 
-  - title: Tempo
-    link: "https://www.github.com"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  - title: Application for optimal elective course allocation
+    link: 
+    tagline: Java, genetic algorithm, MVC, client-server architecture
 
-  - title: Atom
-    link: "https://www.github.com"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "https://www.github.com"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  - title: Image fusion based on a drift-diffusion (osmosis) model
+    link: 
+    tagline: Matlab, partial differential equations, finite difference
+  
+  - title: As well as various additional minor projects
+    link: 
+    tagline: Portfolio optimization, FNN implementation with C++, Unity game, multi-agent simulation, etc.
+  
 
 oss:
   title: OSS Contributions
   intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Not yet.
   contributions:
-  - title: Tempo
-    link: "https://www.github.com"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "https://www.github.com"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "https://www.github.com"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  #- title: Tempo
+  #  link: "https://www.github.com"
+  #  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
 publications:
   title: Publications
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "https://www.github.com"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    Not yet.
+  #papers:
+  #- title: The Art of Computer Programming
+    #link: "https://www.github.com"
+    #authors: Donald E. Knuth
+    #conference: Addison-Wesley, 1968
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "https://www.github.com"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+  #- title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+    #link: "https://www.github.com"
+    #authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+    #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-  - title: A syntax directed compiler for Algol 60
-    link: "https://www.github.com"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+  #- title: A syntax directed compiler for Algol 60
+    #link: "https://www.github.com"
+    #authors: Edgar T. Irons
+    #conference: "Comm. ACM 4 (1961), 51–55"
 
 recommendations:
   title: Recommendations
   list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
+  - person: Olivier Bokanowski
+    email: olivier.bokanowski@u-paris.fr
+    phone: (33) 1 57 27 91 19 
+    role: Maître de conférence
     recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
+      His skills and dedication clearly demonstrate that he is fully capable of pursuing a career in applied mathematics research.
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
-    level: 98%
+  - name: Python(Pandas, NumPy, Scikit-learn, TensorFlow)
+    level: 80%
 
-  - name: Javascript & jQuery
-    level: 98%
+  - name: R
+    level: 80%
 
-  - name: Angular
-    level: 98%
+  - name: C++
+    level: 70%
 
-  - name: HTML5 & CSS
-    level: 95%
+  - name: Java
+    level: 70%
 
-  - name: Ruby on Rails
-    level: 85%
+  - name: MariaDB
+    level: 50%
 
-  - name: Sketch & Photoshop
+  - name: shell scripting
     level: 60%
 
+  - name: HTML5 & class
+    level: 40%
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
